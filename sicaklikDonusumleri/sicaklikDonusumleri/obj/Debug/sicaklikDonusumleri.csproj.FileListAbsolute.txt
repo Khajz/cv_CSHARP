@@ -1,0 +1,10 @@
+C:\csharp-basit-main\sicaklikDonusumleri\sicaklikDonusumleri\bin\Debug\sicaklikDonusumleri.exe.config
+C:\csharp-basit-main\sicaklikDonusumleri\sicaklikDonusumleri\bin\Debug\sicaklikDonusumleri.exe
+C:\csharp-basit-main\sicaklikDonusumleri\sicaklikDonusumleri\bin\Debug\sicaklikDonusumleri.pdb
+C:\csharp-basit-main\sicaklikDonusumleri\sicaklikDonusumleri\obj\Debug\sicaklikDonusumleri.csproj.AssemblyReference.cache
+C:\csharp-basit-main\sicaklikDonusumleri\sicaklikDonusumleri\obj\Debug\sicaklikDonusumleri.Form1.resources
+C:\csharp-basit-main\sicaklikDonusumleri\sicaklikDonusumleri\obj\Debug\sicaklikDonusumleri.Properties.Resources.resources
+C:\csharp-basit-main\sicaklikDonusumleri\sicaklikDonusumleri\obj\Debug\sicaklikDonusumleri.csproj.GenerateResource.cache
+C:\csharp-basit-main\sicaklikDonusumleri\sicaklikDonusumleri\obj\Debug\sicaklikDonusumleri.csproj.CoreCompileInputs.cache
+C:\csharp-basit-main\sicaklikDonusumleri\sicaklikDonusumleri\obj\Debug\sicaklikDonusumleri.exe
+C:\csharp-basit-main\sicaklikDonusumleri\sicaklikDonusumleri\obj\Debug\sicaklikDonusumleri.pdb

@@ -1,0 +1,10 @@
+C:\csharp-basit-main\uzunlukDonusumleri\uzunlukDonusumleri\bin\Debug\uzunlukDonusumleri.exe.config
+C:\csharp-basit-main\uzunlukDonusumleri\uzunlukDonusumleri\bin\Debug\uzunlukDonusumleri.exe
+C:\csharp-basit-main\uzunlukDonusumleri\uzunlukDonusumleri\bin\Debug\uzunlukDonusumleri.pdb
+C:\csharp-basit-main\uzunlukDonusumleri\uzunlukDonusumleri\obj\Debug\uzunlukDonusumleri.csproj.AssemblyReference.cache
+C:\csharp-basit-main\uzunlukDonusumleri\uzunlukDonusumleri\obj\Debug\uzunlukDonusumleri.Form1.resources
+C:\csharp-basit-main\uzunlukDonusumleri\uzunlukDonusumleri\obj\Debug\uzunlukDonusumleri.Properties.Resources.resources
+C:\csharp-basit-main\uzunlukDonusumleri\uzunlukDonusumleri\obj\Debug\uzunlukDonusumleri.csproj.GenerateResource.cache
+C:\csharp-basit-main\uzunlukDonusumleri\uzunlukDonusumleri\obj\Debug\uzunlukDonusumleri.csproj.CoreCompileInputs.cache
+C:\csharp-basit-main\uzunlukDonusumleri\uzunlukDonusumleri\obj\Debug\uzunlukDonusumleri.exe
+C:\csharp-basit-main\uzunlukDonusumleri\uzunlukDonusumleri\obj\Debug\uzunlukDonusumleri.pdb
